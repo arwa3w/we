@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Website</title>
+    </head>
+    <body>
+        <header style="background-color:rgb(182, 0, 0) ;color: white;width: 100%;height:55px;margin-top: -8px;">
+          <nav>
+            <img style="width:40px;height:35px;padding-left:7px;padding-top:0px;margin-top: 2px;" src="logo.png">
+            <button style="background-color: rgb(32, 30, 30); opacity: 0.8;border-radius: 5px;margin-left: 50px;"><a style="text-decoration: none;color: white;" href="">Home</a></button>
+            <button style="background-color: rgb(32, 30, 30); opacity: 0.8;border-radius: 5px;margin-left: 20px;"><a style="text-decoration: none;color: white;" href="">Html</a></button>
+            <button style="background-color: rgb(32, 30, 30); opacity: 0.8;border-radius: 5px;margin-left: 20px;"><a style="text-decoration: none;color: white;" href="">Css</a></button>
+            <button style="background-color: rgb(32, 30, 30); opacity: 0.8;border-radius: 5px;margin-left: 20px;"><a style="text-decoration: none;color: white;" href="">Js</a></button>
+          </nav>
+        </header>
+
+        <div  style="background-image:url(aa.jpeg) ;width:100% ; height: 500px;background-repeat: no-repeat;background-size: contain;padding-top: 1px;">
+        <p><h2 style="color:white;text-align: center;padding-top: 50px;font-size: 40px;">Welcome To Programming Website..!</h2></p><br>
+        <input style=" background-color: rgb(182, 0, 0);color: white;width: 108px;height:31px; border-radius: 7px;margin-left:620px;" type="button" value="View more">
+        <input style=" background-color:  rgb(182, 0, 0);color: white;width: 108px;height:31px; border-radius: 7px;margin-left: 50px;" type="button" value="Start learning">
+        </div>
+        <br>
+        <p style="text-align: center;font-size: 30px;"><b>Please Cheak Our Courses</b></p>
+        <table border="6" style="width:600px; margin-left: 450px;text-align: center;">
+            <tr>
+                <th>Name</th>
+                <th>Image</th>
+                <th>Before</th>
+                <th>After</th>
+                <th>Gategory</th>
+                <th>Buy</th>
+            </tr>
+            <tbody style="background-color:rgb(135, 134, 136);color: white;">
+                <tr>
+                    <td>Html</td>
+                    <td><img style="width: 50px;height: 50px;" src="html.png"></td>
+                    <td><del>400$</del></td>
+                    <td>50$</td>
+                    <td>Front-end</td>
+                    <td><input style="background-color: rgb(223, 6, 6);border-radius: 5px;" type="button" value="Buy Now"></td>
+                </tr>
+                </tbody>
+                <tbody style="background-color:rgb(86, 84, 88);color: white;">
+                <tr>
+                    <td>Css</td>
+                    <td><img style="width: 50px;height: 50px;" src="css.png"></td>
+                    <td><del>200$</del></td>
+                    <td>100$</td>
+                    <td>Front-end</td>
+                    <td><input style="background-color: rgb(223, 6, 6);border-radius: 5px;" type="button" value="Buy Now"></td>
+                </tr>
+                </tbody>
+                <tbody style="background-color:rgb(135, 134, 136);color: white;">
+                <tr>
+                    <td>Php</td>
+                    <td><img style="width: 50px;height: 50px;" src="php.png"></td>
+                    <td><del>300$</del></td>
+                    <td>150$</td>
+                    <td>Back-end</td>
+                    <td><input style="background-color: rgb(223, 6, 6);border-radius: 5px;" type="button" value="Buy Now"></td>
+                </tr>
+                </tbody>
+                <tbody style="background-color:rgb(86, 84, 88);color: white;">
+                <tr>
+                    <td>Js</td>
+                    <td><img style="width: 50px;height: 50px;" src="js.png"></td>
+                    <td><del>400$</del></td>
+                    <td>200$</td>
+                    <td>Front-end</td>
+                    <td><input style="background-color: rgb(223, 6, 6);border-radius: 5px;" type="button" value="Buy Now"></td>
+                </tr>
+                </tbody>
+                <tbody style="background-color:rgb(135, 134, 136);color: white;">
+                <tr>
+                    <td>Mysql</td>
+                    <td><img style="width: 50px;height: 50px;" src="mysql.png"></td>
+                    <td><del>500$</del></td>
+                    <td>250$</td>
+                    <td>Data-Base</td>
+                    <td><input style="background-color: rgb(223, 6, 6);border-radius: 5px;" type="button" value="Buy Now"></td>
+                </tr>
+                </tbody>
+        </table>
+        <p style="font-size: 30px;text-align: center;">it's the Time To subscribe Our Courses</p>
+        <div style="background-image: url(back2.jpg);width: 100%;height: 450px;background-position: center center;"><br><br><br>
+            <div style="background-color: rgb(108, 107, 109);width: 348px;height:365px;margin-left: 30px;margin-top: -20px;"><br>
+                <img style="width: 348px;height:150px;margin-left: 1px;margin-top:-18px;" src="html.jpg">
+                <p><h2 style="text-align: center;"><i>HTML COURSE</i></h2></p>
+                <p style="color: white;margin-left: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing
+                  elit. Ut iste sequi quasi nulla earum molestias molestiae, illo vero eius odio mollitia numquam ullam, tempore praesentium sint laudantium. Dolorem, minus deleniti!</p>
+                  <input style=" background-color: rgb(182, 0, 0);color: white;width: 345px;height:35px;margin-left: 2px;" type="button" value="SubScribe Now">
+            </div>
+            <div style="background-color: rgb(108, 107, 109);width: 348px;height:365px;margin-left: 550px;margin-top: -359px;"><br>
+                <img style="width: 348px;height:150px;margin-left: 1px;margin-top:-18px;" src="CSS-2.png">
+                <p><h2 style="text-align: center;"><i>Css COURSE</i></h2></p>
+                <p style="color: white;margin-left: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing
+                  elit. Ut iste sequi quasi nulla earum molestias molestiae, illo vero eius odio mollitia numquam ullam, tempore praesentium sint laudantium. Dolorem, minus deleniti!</p>
+                  <input style=" background-color: rgb(182, 0, 0);color: white;width: 345px;height:35px;margin-left: 2px;" type="button" value="SubScribe Now">
+            </div>
+            <div style="background-color: rgb(108, 107, 109);width: 348px;height:365px;margin-left: 1050px;margin-top: -358px;"><br>
+                <img style="width: 348px;height:150px;margin-left: 1px;margin-top:-18px;" src="java-script.jpg">
+                <p><h2 style="text-align: center;"><i>Java-Script COURSE</i></h2></p>
+                <p style="color: white;margin-left: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing
+                  elit. Ut iste sequi quasi nulla earum molestias molestiae, illo vero eius odio mollitia numquam ullam, tempore praesentium sint laudantium. Dolorem, minus deleniti!</p>
+                  <input style=" background-color: rgb(182, 0, 0);color: white;width: 345px;height:35px;margin-left: 2px;" type="button" value="SubScribe Now">
+            </div>
+        </div>
+        <br>
+        <div style="background-color: rgb(138, 160, 191);width: 577px;height:393px;margin-left: 47px;margin-top: 6px;border-radius: 4px;"><br>
+            <img style="width: 289px;height:187px;margin-left: 138px;margin-top:-6px;" src="php.png">
+            <p><h2 style="text-align: center;font-size: 25px;"><i>php COURSE</i></h2></p>
+            <p style="color: white;margin-left: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Ut iste sequi quasi nulla earum molestias molestiae, illo vero eius odio mollitia numquam ullam, tempore praesentium sint laudantium. Dolorem, minus deleniti!</p>
+              <input style=" background-color: rgb(182, 0, 0);color: white;width: 210px;height:35px;margin-left: 174px;border-radius: 5px;" type="button" value="SubScribe Now">
+        </div>
+        <div style="background-color: rgb(221, 117, 6);width: 577px;height:393px;margin-left: 806px;margin-top: -395px;border-radius: 4px;"><br>
+            <img style="width: 311px;height:201px;margin-left: 131px;margin-top:-12px;" src="mysql.png">
+            <p><h2 style="text-align: center;font-size: 25px;"><i>Mysql COURSE</i></h2></p>
+            <p style="color: white;margin-left: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Ut iste sequi quasi nulla earum molestias molestiae, illo vero eius odio mollitia numquam ullam, tempore praesentium sint laudantium. Dolorem, minus deleniti!</p>
+              <input style=" background-color: rgb(182, 0, 0);color: white;width: 210px;height:35px;margin-left: 192px;border-radius: 5px;" type="button" value="SubScribe Now">
+        </div>
+        <br>
+        <footer style="background-color:black ;color: white;width: 100%;height:50px;margin-top: 0px;">
+           <p style="color:white;text-align: center;">copyrint 2021 Al Right To Smart Code Academy</p>
+           <p style="color:white;text-align: center;margin-top: -11px;">Eng/ARwa ABo TaleB</p>
+        </footer>
+    </body>
+</html>
